@@ -1,0 +1,16 @@
+.content-detail {
+    margin-top: 20px;
+}
+.creatures-content {
+    max-width: 800px;
+}
+.creatures-content ul {
+    margin-bottom: 10px;
+}
+.creatures-content div {
+    margin-bottom: 10px;
+}
+.creatures-content li{
+    margin-left: 20px;
+    list-style: square;
+}
